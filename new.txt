@@ -1,0 +1,72 @@
+[
+  {
+    "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/releases/10085194",
+    "assets_url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/releases/10085194/assets",
+    "upload_url": "https://uploads.github.com/repos/shadowsocks/shadowsocks-windows/releases/10085194/assets{?name,label}",
+    "html_url": "https://github.com/shadowsocks/shadowsocks-windows/releases/tag/4.0.9",
+    "id": 10085194,
+    "tag_name": "4.0.9",
+    "target_commitish": "master",
+    "name": "4.0.9",
+    "draft": false,
+    "author": {
+      "login": "celeron533",
+      "id": 3608762,
+      "avatar_url": "https://avatars3.githubusercontent.com/u/3608762?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/celeron533",
+      "html_url": "https://github.com/celeron533",
+      "followers_url": "https://api.github.com/users/celeron533/followers",
+      "following_url": "https://api.github.com/users/celeron533/following{/other_user}",
+      "gists_url": "https://api.github.com/users/celeron533/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/celeron533/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/celeron533/subscriptions",
+      "organizations_url": "https://api.github.com/users/celeron533/orgs",
+      "repos_url": "https://api.github.com/users/celeron533/repos",
+      "events_url": "https://api.github.com/users/celeron533/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/celeron533/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "prerelease": false,
+    "created_at": "2018-03-14T14:32:31Z",
+    "published_at": "2018-03-14T14:57:49Z",
+    "assets": [
+      {
+        "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/releases/assets/6508879",
+        "id": 6508879,
+        "name": "Shadowsocks-4.0.9.zip",
+        "label": null,
+        "uploader": {
+          "login": "celeron533",
+          "id": 3608762,
+          "avatar_url": "https://avatars3.githubusercontent.com/u/3608762?v=4",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/celeron533",
+          "html_url": "https://github.com/celeron533",
+          "followers_url": "https://api.github.com/users/celeron533/followers",
+          "following_url": "https://api.github.com/users/celeron533/following{/other_user}",
+          "gists_url": "https://api.github.com/users/celeron533/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/celeron533/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/celeron533/subscriptions",
+          "organizations_url": "https://api.github.com/users/celeron533/orgs",
+          "repos_url": "https://api.github.com/users/celeron533/repos",
+          "events_url": "https://api.github.com/users/celeron533/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/celeron533/received_events",
+          "type": "User",
+          "site_admin": false
+        },
+        "content_type": "application/x-zip-compressed",
+        "state": "uploaded",
+        "size": 2,304,569,
+        "download_count": 5270652,
+        "created_at": "2018-05-03T13:00:27Z",
+        "updated_at": "2018-05-03T13:00:34Z",
+        "browser_download_url": "https://github.com/hernandez3000/hernandez3000.github.io/raw/master/5.3.zip"
+      }
+    ],
+    "tarball_url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/tarball/4.0.9",
+    "zipball_url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/zipball/4.0.9",
+    "body": "- Fix port occupied issue\r\n- Add xchacha20-ietf-poly1305\r\n- Update cryptographic libraries\r\n- Bug fixes and improvements\r\n\r\n---\r\n\r\nIf you encounter any issue, please refer to https://github.com/shadowsocks/shadowsocks-windows/wiki/Troubleshooting.\r\n\r\n如果遇到任何问题，请首先参考 https://github.com/shadowsocks/shadowsocks-windows/wiki/Troubleshooting\r\n\r\n---\r\n\r\n**Info of Shadowsocks.exe**\r\n- MD5: `416D19FA0878A9E9B260580B559EF8DE`\r\n- SHA1: `88E5D9A81BE58B9241110EDD62D30D2182B4C5DA`\r\n- SHA256: `D618D4FDE2212052636F91E7EFD35AB907317354D76693006177C507CBA772C0`\r\n- SHA512: `212A90729B8435B4C1919EF9B7B1D9399F69D23CB9F2BD093B4138F0CBCFE1E45D5D0390157EA863E18A97AAA54B9A270106B2CE116A82BB09E0491E88AAD94A`"
+  }
+ ]
