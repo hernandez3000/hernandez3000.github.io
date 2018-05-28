@@ -35,7 +35,7 @@
       {
         "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/releases/assets/6508879",
         "id": 6508879,
-        "name": "speedcoin-0.0.2.zip",
+        "name": "CoinSpeed-0.0.2",
         "label": null,
         "uploader": {
           "login": "celeron533",
