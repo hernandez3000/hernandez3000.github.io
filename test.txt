@@ -1,0 +1,11 @@
+function FindProxyForURL(url, host)
+{
+if ((isPlainHostName(host) ││
+dnsDomainIs(host, ".google.com")) &&
+!localHostOrDomainIs(host, "www.google.com") &&
+!localHostOrDomainIs(host, "news.google.com"))
+
+return "DIRECT";
+else
+return "PROXY 127.0.0.1:37195";
+}
