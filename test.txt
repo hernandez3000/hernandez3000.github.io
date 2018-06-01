@@ -1,7 +1,6 @@
 function FindProxyForURL(url, host)
 {
-if ((isPlainHostName(host) ││
-dnsDomainIs(host, ".google.com"))
+if dnsDomainIs(host, "google.com")
 return "PROXY 127.0.0.1:1000";
 else
 return "DIRECT";
