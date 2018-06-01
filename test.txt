@@ -1,5 +1,5 @@
 function FindProxyForURL(url, host)
 if (dnsDomainIs(host, "google.com") || 
     dnsDomainIs(host, "www.google.com")) {
-  return "SOCKS 127.0.0.1:37195; DIRECT";
+  return "PROXY 127.0.0.1:37195; DIRECT";
 }
